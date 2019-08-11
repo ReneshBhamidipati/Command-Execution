@@ -1,0 +1,15 @@
+vi /etc/host*--> 5.0
+ls /etc/host*--> 0.0
+cat /etc/host.allow--> 18.0
+cd /etc/sssd--> 6.0
+cd - --> 5.0
+cd /etc/ssh--> 5.0
+ls--> 5.0
+view sshd_config--> 8.0
+adid rasooa | grep -i hdoop--> 7.0
+Command: vi ; No. of times used: 1
+Command: ls ; No. of times used: 2
+Command: cat ; No. of times used: 1
+Command: cd ; No. of times used: 3
+Command: view ; No. of times used: 1
+Command: adid ; No. of times used: 2
