@@ -1,0 +1,20 @@
+#1485369306
+vi /etc/host*
+#1485369311
+ls /etc/host*
+#1485369311
+cat /etc/host.allow
+#1485369329
+cd /etc/sssd
+#1485369335
+cd - 
+#1485369340
+cd /etc/ssh
+#1485369345
+ls
+#1485369350
+view sshd_config
+#1485369358
+adid rasooa | grep -i hdoop
+#1485369365
+adid rasooa
